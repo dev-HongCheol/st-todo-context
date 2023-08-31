@@ -1,0 +1,11 @@
+.header{
+    list-style-type: none;
+    display: flex;
+}
+
+.header > li {
+    width: 200px;
+    text-align: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
